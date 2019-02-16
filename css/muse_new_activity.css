@@ -1,0 +1,35 @@
+.new_activity_media{
+    height:260px;
+    padding-bottom: 290px;
+    border-bottom:1px solid #ccc;
+}
+
+.new_activity_media-body h2 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 40px;
+    color: #000;
+    line-height: 60px;
+    font-weight: bold;
+    font-style: italic;
+    display: block;
+    border: #33F 1px solid;
+    border: none;
+}
+.img_span{
+    margin-top:85px;
+}
+.jieshu{
+    float: right;
+    width: 170px;
+    height: 48px;
+    overflow: hidden;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px;
+    background: #FBEFEF;
+    color: #DC4A4A;
+    border: #F3D4D9 1px solid;
+    margin-right: 24px;
+    display:inline-block;
+    margin-top:5px;
+}

@@ -1,0 +1,57 @@
+.footer-box{
+    border:0px solid #eee;
+    box-shadow: 0 0 40px 1px;
+}
+.footer,.foot-center2,.footer-bottom{
+    width:960px;
+    margin:0 auto;
+}
+.foot-center{
+    background:#e3e3e3
+}
+
+.div-footer-middle{
+    padding-top:40px;
+}
+.overflow-h1,.overflow-h2,.overflow-h3{
+    width:40px;
+    height:40px;
+    background:url("../project1_muse/img/bg38.gif") no-repeat;
+    margin-top:50px;
+}
+.overflow-h1:hover{
+    background:url("../project1_muse/img/bg09.png") no-repeat;
+}
+.overflow-h2:hover{
+    background:url("../project1_muse/img/bg10.png") no-repeat;
+}
+.overflow-h3:hover{
+    background:url("../project1_muse/img/bg11.png") no-repeat;
+}
+.overflow-h4{
+    width:65px;
+    height:60px;
+    background:url("../project1_muse/img/bg36.gif") no-repeat;
+    margin-top:10px;
+}
+.overflow-h4:hover{
+    background:url("../project1_muse/img/bg35.gif") no-repeat;
+}
+.foot-center2>ul>li>a{
+    display:inline-block;
+    width:100px;
+    text-align: center;
+}
+.foot-bottom{
+    background:#cacaca
+}
+li.d-1{
+    position: relative;
+}
+.a-1{
+    position: absolute;
+    top:0px;
+    left:0;
+    z-index:1;
+
+}

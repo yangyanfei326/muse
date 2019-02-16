@@ -1,0 +1,49 @@
+*{margin:0;padding:0}
+body{
+    background:#f6f6f6 ;
+}
+header{
+    height:809px;
+}
+.my_header{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:120px;
+    z-index:1000;
+    overflow:visible;
+}
+.my_header2{
+    width:100%;
+    height:808px;
+   
+}
+.my_footer{
+    width:100%;
+    height:320px;
+}
+.my_footer_right{
+    width:360px;
+    height:460px;
+    position:fixed;
+    right:0;
+    bottom:0;
+    z-index:1000;
+    overflow:visible;
+}
+.mycolor{
+    color:#bbb;
+}
+.mysmall{
+    font-size:12px;
+}
+.mysmall2{
+    font-size:9px;
+}
+.mysmall3{
+    font-size:14px;
+}
+a:hover{
+    text-decoration:none;
+}

@@ -1,0 +1,18 @@
+div.sum{
+    width:360px;
+    height:460px;
+    background:#fff;
+}
+p.bg-primary{
+    opacity: 0.8;
+}
+input,textarea,button{
+    width:85%;
+}
+button{
+    opacity: 0.6;
+    height: 30px;
+}
+input,textarea{
+    border:1px solid #e1e4e9;
+}
